@@ -1,3 +1,3 @@
 # My Public Repository
 
-This repo contains code that I've written over the last few years that I don't mind being public.
+This repo contains code and general stuff that I've written/created over the last few years that I don't mind being public ;) enjoy!
