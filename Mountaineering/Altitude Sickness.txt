@@ -1,0 +1,63 @@
+Altitude Sickness
+-----------------
+In response to reduced oxygen content in the air at altitude, our bodies increase respiratory rate, pulse rate, 
+and blood pressure in an attempt to maintain a sufficient supply of oxygen to our organs including increased 
+cerebral blood flow in and attempt to oxygenate the brain. The increased respiratory rate alters the pH of 
+our blood and when our kidney's ability to re-balance this are exceeded, the permeability of our tissues increases. 
+The resulting system-wide "leaks" present as visible swelling in the hands and feet, high altitude cerebral 
+edema (HACE) and high altitude pulmonary edema (HAPE). With the development of severe AMS, death can occur within six hours.
+
+Mild AMS Sickness
+-------------
+- Headache (feels like a hangover)
+- Abnormally increased respirations and shortness of breath during normal exercise.
+- Insomia
+- Decreased appetite that is often accompanied by nausea.
+- Swelling of hands, feet, and occasionally face.
+Mild AMS Treatment
+------------------
+- Stop ascent and rest until kidneys catch up, pH balance is restored, and symptoms disappear
+- If symptoms worsen, descend until symptoms resolve.
+- Administer NSAIDS to reduce headache during rest days.
+- Acetazolamide to speed acclimatization.
+- Increase fluids and electrolytes to maintain hydration status; monitor urine output and color.
+- Diet high in carbohydrates; avoid proteins and fats.
+
+Moderate AMS Sickness
+---------------------
+- Severe and increasingly debilitating headache (migraine)
+- Abnormally increased respirations and shortness of breath during mild exercise.
+- Episodes of vomiting are possible.
+- Awake and irritable or lethargic with increasing fatigue.
+- Rales or crackling sounds in the lungs.
+Moderate AMS Treatment
+----------------------
+- Stop ascent and descend until symptons disappear. Patient may or may not be able to self-evac. Drug therapy is not a substitute for descent.
+- Decrease and limit exercise.
+- Use supplemental oxygen (1 L/min @ rest) if available.
+- Use a portable hyperbaric chamber to stabilize patient prior to descent or if descent is not immediately possible.
+- Acetazolamide (Rx) by mouth 250 mg twice a day during descent.
+- Dexamethasone (Rx) 4 mg four times a day by mouth or IM during descent untilsymptons subside (usually within 12-24 hours).
+- Nifedipine, Sildenafil Citrate or Tadalafil for HAPE if crackling sounds are present in lungs.
+- Salmeterol to reduce pulmonary edema if crackling sounds are present in lungs.
+- Increase fluids and electrolytes; monitor urine output and color.
+- Administer NSAIDs to reduce headache during rest days.
+
+Severe AMS Sickness (HACE & HAPE)
+---------------------------------
+- Onset is variable; however, death may occur within 6 hours of developing signs and symptoms.
+- Severe and increasingly debilitating headache (migraine).
+- Abnormally increased respirations and shortness of breath at rest.
+- Persistent vomiting and decreased coordination (ataxia). Evaluate: have patient walk in a heel-to-toe straight line; if their balance wavers — failed.
+- Awake and extremely lethargic/exhausted progressing to voice responsive, pain responsive, and unresponsive.
+- Rales or minor crackling sounds in the lungs progressing to a productive cough and/or gurgling.
+Severe AMS Treatment
+--------------------
+- Stop ascent and descend until symptoms disappear. Carry or litter evac is required.
+- Use supplemental O2 (1 L/min at rest) if available.
+- Use a portable hyperbaric chamber prior to descent or if descent is not immediately possible.
+- Acetazolamide (Rx) 250 mg twice a day by mouth during descent.
+- Dexamethasone (Rx) 4 mg four times a day for HACE by mouth or IM during descent until symptoms subside.
+- Nifedipine (Rx) for HAPE 20 mg sublingual immediately and follow with 30 mg slow-release four times a day during descent until symptoms subside.
+- Support HAPE patients in sitting or semi-reclined position to help facilitate their breathing.
+- Positive pressure ventilations may be helpful but difficult during an evacuation.

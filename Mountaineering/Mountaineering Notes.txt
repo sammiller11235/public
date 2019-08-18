@@ -1,0 +1,263 @@
+Knots
+- Figure 8
+	- Learn your knots
+	- Use to tie into the rope at the ends (re-woven figure 8).
+	- Use to make a quick back-up knot for a rescue prusik hitch (in-line figure 8)
+	- Can't "escape" in-line knot if the rope is loaded
+- Bowline or butterfly
+	- Learn your fucking knots
+	- Use to tie into the rope in the middle
+	- These knots allows you to "escape" even if the rope is loaded
+- Girth hitch
+	- Use to hitch to an anchor
+	- Use to hitch to a picket
+	- Use to hitch to a backpack loop
+- Prusik hitch
+	- Learn your fucking knots!
+	- Use to prusik your ass up the rope after falling into a crevasse (foot and chest prusik)
+	- Use to prusik along the rope to minimize falling distance (chest prusik)
+	- Use to attach hero loops: save your bro!
+- Tie-off knots: Double fisherman, Water knot (webbing)
+	- Use to tie stuff off
+	- learn yo knots, please
+- Clove hitch
+	- Temporary adjustable anchor knot
+	- Swap with in-line figure 8
+- Munter hitch
+	- Friction knot used to belay without belay device
+	- Used to set up a releasable loaded fixed point (Munter-Mule-Overhand)
+- Mule
+	- Used to create a temporary knot, usually above a munter hitch, that can be released under load
+	- Make sure to secure the loose end (with overhand or carabiner to anchor point)
+	- Tend the loose end while releasing to avoid binding
+	- When tying, keep collar close to top
+
+
+Carabiners
+- Locking vs. wiregate
+	- When to use locking:
+		- When you want to be "fixed" to something (fixed to the rope, fixed to an anchor)
+		- Tying into the rope (e.g. butterfly)
+		- Attaching to fixed anchor (e.g. using personal anchor)
+	- When to use a wiregate
+		- When you want to "temporarily" fix to something (e.g. running protection)
+		- When you are using it as a back-up
+		- When its not serving a safety function
+- Opposite and Opposing
+	- Redundancy and peace of mind
+
+Belaying
+- Belay device
+	- Keep your brake hand on the rope!
+	- Consider loading direction (for when they fall)
+	- Tending the rope (don't let it catch your legs!) (or get knotted)
+	- "Catch" you partner, give a little
+	- If you're belaying, you better fucking be an anchor (otherwise use an anchor).
+		- Sitting rather than standing
+		- Kick your feet in
+		- Assume they are going to fall
+- Munter belay
+	- Same as belay device
+	- Set knot so it won't have to "flip"
+	- Be conscious of release side: it should be towards the inside of the carabiner, rather than the lock
+- Hip belay
+	- Use when the ground is fairly flat and the consequences of a fall are mild (assess run-out). Good way to quickly protect a novice climber
+- Boot belay
+	- Use when the ground is steeper and the consequences of a fall are relatively minor (assess run-out)
+- Belay from anchor
+	- Use when the terrain is sketchy and the consequences of a fall are grave
+- Loading direction: assume a fall
+	- make sure you're stable and on stable ground
+	- consider how the falling climbing would "swing"
+	- consider how a rescue would be made assuming a fall
+- Communication ("On-Belay?", "Belay On", "Climbing", "Slack", "Falling!", "Take!", "Rock!", "Ice!", "Off Belay")
+	- You need to know these and use these regularly. It builds trust among a team.
+- Belay Escape
+	- Situation: belaying from anchor. Something happens to partner, need to get out of belay to perform rescue or get help
+	- Tie belay-device-mule-overhand (pass rope through ATC beaner to keep brake direction downward. Tie mule-overhand above ATC).(main line)
+	- Hero-loop prusik hitch above mule-overhand. Munter-Mule-Overhand (MMO) from prusik to anchor. (secondary line)
+	- MMO from loose brake side to anchor (main line)
+	- 1st release mule-overhand from ATC (you've "escaped"). 2nd release secondary MMO (secondary line). 3rd release final MMO (main line). 
+		Lower climber from munter hitch attached to anchor
+
+	
+Rappel
+	- TIE KNOTS IN ROPE ENDS!
+	- PA into anchor
+	- Setup ATC to midpoint in PA, 2 loops if possible (for extended rappel with auto-block)
+	- Rope to anchored carabiner at rope midpoint. Both lengths of rope through ATC
+	- Setup auto-block -> tightly wrapped cord around rope. Locking carabiner through both ends and through harness belay loop
+	- Test rappel setup. Double check locking carabiners. Note: you are on your own here, likely noone is checking your work and noone is backing you up
+	- PA to belay loop, creating redundancy in ATC if 2 loops.
+	- Rappel, mending auto-block
+	- Alternative non-extended rappel: ATC to belay loop and auto-block carabiner to harness leg.
+	
+Anchors
+- Natural (trees ("Five by Five and Alive", check leaf growth), Rocks, ...)
+- Fixed (bolts, pitons)
+- Snow (Picket, deadman)
+- Ice (screws)
+- Redundancy (V-static)
+- Load direction
+- Rappel
+- SERENE
+	- Solid/Strong
+	- Equilized
+	- Redundant
+	- Efficient
+	- No Extension
+- Avoid American Death Triangle
+- The quad
+
+Snow Travel 
+-----------
+Gear
+- Axe, axe leash
+- Crampons
+- Shovel
+- Tying a Texas Prusik: http://www.cascadeadventures.net/images/climb_school/texas_prusik.pdf
+- Runners, prusiks and hero loops:
+	Three 5ft runner (made of tubular nylon webbing (9/16" or 1" thick))
+	Two 9ft runner (made of tubular nylon webbing (1")) 
+	Chest Prusik (5 mm or 6 mm perlon cord) (Same length as your height e.g. 6ft tall, 6ft rope)
+	Leg Prusik (5 mm or 6 mm perlon cord) (Height:Rope length, 5ft:11ft, 5.5ft: 11.5ft, 6ft:12ft, 6.5ft:13ft)
+	Two Hero loop (4 ft long each (5mm or 6mm perlon cord))
+	Chest harness (8 ft long - same material as runner)
+
+Techniques
+- Assessing runout
+	- Rocks?
+	- Crevasse?
+	- Cliffs?
+- Self arrest
+	- Self arrest grip (on ice axe)
+	- Feet-up (don't want crampons to catch in the snow)
+	- Drive your axe point into the snow
+	- Don't give up, even slowing yourself slightly will help the team arrest you
+- Crampons
+	- Essential for ice, useful for snow
+	- Consider snow pack and run-out. Wear if snow is hard or run-out is ugly.
+	- Don't use if snow is balling up underfoot
+	- Put them on BEFORE you need them
+	- Don't fucking glissade in crampons!
+- Ascending
+	- Balance: keep your fucking balance. Move from a position of balance to a new position of balance
+	- 3 point stability (not a line). Use your ice axe and 2 feet to keep your fucking balance
+	- rest step: methodical pace. Rest on your bones, not on your muscles (knee and hip lock-out, heel down)
+	- step kicking: use the weight of your leg as a pendulum, rather than muscles. Minimum size is a platform for ball of your feet
+	- direct vs. diagonal
+- Descending (Plunge step, face down, glissade, direct vs. diagonal)
+- Arresting (self arrest, self belay, face-first, headback, assessing snow)
+- Roped Protection (team arrest, running belay, passing pro(tection), rope etiquette)
+
+Decision Making
+- Can everyone be expected to self-arrest? If not -> rope the fuck up
+- Can the rope team arrest all falls w/ team arrest only? If not -> place protection (e.g. picket)
+- Is a given obstacle (e.g. crevasse) going to have large implications (e.g. dangerous/hard to arrest)? If yes -> running belay
+- Can pro be used to protect all falls? If not -> turn the fuck around.?
+- Turn around or proceed with risks? -> You REALLY trying to die out here bro?
+
+Basic Rope Techniques
+ - Tie-in:
+	- End climbers: Re-woven figure 8 knot. Chest prusik above foot prusik
+	- Mid-rope climbers: Butterfly knot with 1-locking and 1-nonlocking carabiner at harness hardpoint, opposite and opposed. 
+		Chest prusik on up-hill strand. Foot prusik on downhill strand. Note: you'll need to move one or the
+		other prusik in the case of self-prusiking out of a crevasse.
+	- Chest prusik to carabiner at harness hardpoint
+	- Foot prusik in pocket or to carabiner on side of harness
+	- Kiwi-coil w/ butterfly: Rope coil to minimize excess rope length, e.g. when going from glacier to rocks, or short-roping
+		- After Figure-8 at rope-end:
+		- Tightly coil excess rope from hip to opposite shoulder (usually on dominant hand hip)
+		- Tie off coil with overhand and non-locking carabiner (if needed)
+		- Butterfly knot with 1-locking carabiner on main line (or bowline)
+		- Traditional kiwi: after coil, take bight through hardpoint, up and under coil, overhand to main line, cinch and biner to hardpoint
+	- Chest harness to keep you upright after falling into crevasse. Most people consider these optional
+	- Girth hitch to backpack w/ carabiner
+ - Climbing:
+	- In general, look to minimize exposure:
+		- Avoid climbing under areas with obvious rock-fall or ice-fall
+		- End-run crevasses rather than jump
+		- Be wary of snow-bridges, especially in afternoon or soft snow conditions
+		- Follow established routes but recognize the mountain changes everyday
+	- Minimize slack in the rope. Consider the climbers above and below (slope, obstacles, fitness) and speak up if needed
+	- It can be difficult to minimize slack in the rope when doing switchbacks. Communicate and work to minimize overall slack.
+	- Don't step on the rope with your fucking crampons. If rope is on the ground near you, look before you step.
+	- Reel-in climbers when the team has reached a safe resting point (make a neat coil)
+	- Feed-out line when starting to minimize knots (unravel 1 coil at a time)
+	- Flake out rope before use
+	- When taking off backpack on steep slope, use girth hitch to ice axe or similar so you don't lose it
+ - Schedule:
+	- Set a turn-around time and stick to it
+	- If you are well-prepared and know your gear and knots, it takes about 1 hr to wake, dress, eat, piss, and tie-into rope
+		- If you aren't well-prepared it may take you longer. Consider your group, don't make everyone wait, especially if it's cold
+	- Don't over-dress when you start. You will generate a lot of heat. Have rain jacket and puffy accessible though.
+		- Wear gloves before your hands get cold. Your body will be pushing blood to your legs and core, it can hard to warm up cold hands and feet.
+	- Generally aim to summit early morning and be off glaciers by noon
+	- Scope out the route ahead of time. Knowledge of features, altitude of features, ridges to follow, etc.
+	- If you expect route-finding may be an issue (no bootpack, 1st time on route, etc.), give extra time and continually evaulate
+	- When climbing ~20-30 degree slope, Aim for 1 hr per 1000 ft.
+		- Add time for poor visibility, lack of route knowledge, lousy snow or needing to kick steps
+		- Add time for fatigue or poor fitness
+		- Subtract time for straightforward route, good route beta, solid snow, and good weather
+	- Don't take super long breaks. Keep it to about 10 minutes every 1 or 1.5 hours. 
+		- Moderate pace w/ short breaks > fast pace w/ long breaks
+	- Remember down-climbing is always the most risky time: Keep your focus!
+		- Worsening snow conditions
+			- Weakening snow bridges
+			- Difficult to self-arrest in mushy snow
+			- More likely that snow pushes out from underneath feet
+			- Watch out for snow balling up under crampons
+		- Fatigue
+		- Heat stroke or sun fatigue
+		- Less focus because you reached the summit
+		- Big heavy plungesteps can cause snow bridges to collapse or avalanches to initiate
+ - Weather:
+	- Watch the skies! Forecasts are always approximate
+	- Increasing pressure signifies improving conditions
+	- Drop in pressure signifies worsening conditions
+	- An increase in your (barometric) altimeter signifies a drop in pressure. E.g., waking up the morning of a summit climb and 
+		finding that your barometric altimeter has you 200 feet closer to the summit than when you went to sleep is a sign 
+		that the pressure dropped during the night (potentially bad weather incoming)
+	- Cloudy but dry weather in the lowlands may translate to wet weather in the mountains (dew-point).
+	- Cumulus clouds may signify incoming wet weather or thunderstorms (big fluffy clouds with well-defined edges)
+	- High-altitude leniticular clouds (UFO looking) combined with increasing windspeed almost always means weather is incoming
+	- High, wispy clouds, known as cirrus, and low shelf-like clouds, known as stratus, are less of a concern. 
+		Stratus clouds can produce light precipitation, but they won’t produce lightning.
+	- Thin clouds sitting at summit suggest it will be windy and potentially nasty up there. Some weather likely in next 24 hrs.
+	- Questionable weather does not always deteriorate. Sometimes you will complete the non-technical, 
+		early sections of a climb in poor weather with the hopes that the weather will improve. Granted,
+		shitty conditions at low altitude usually mean worse conditions at higher altitude.
+ - Avalanche:
+	- Read the reports. Don't risk it.
+	- ~30 degree, sun-faces slopes are the most dangerous
+	- Look for previous avalaches, loose-slides, pin-wheels
+	- If you see avalanches occur, you should probably turn back
+	- Often avalanche conditions are worst in the afternoon of warm days
+	- Consider wind-loading
+	- Gullys tend to funnel avalanches
+	- Climb on windward side of ridges
+	- Best to avoid avalache conditions in all circumstances
+
+- Stepping Techniques
+	- Start in a position of balance, end in a position of balance
+	- Keep ice axe out in front of you. 2 hands on axe in very steep terrain. 
+	- Consider 1-handed self-arrest grip (moderate slope), 2-handed belay grip (steeper slope, direct climbing), 
+		2-handed self-arrest grip (very steep slope, especially when side-stepping or hybrid techniques)
+	- 2 points of contact w/ snow at all times (feet or axe)
+	- Only move axe when your lower leg is firmly planted
+	- "Rest-step" : Step up quickly, then lock your downhill knee and shift your weight back onto that leg.
+	- Rest on your bones, not on your muscles! 
+	- Focus on deep methodical breathing.
+	- Pressure breathing at high altitude : purse your lips and force air out slowly (increased pressure in lungs)
+	- Don't over-pump your muscles. You will fatigue quickly. Find your equilbrium pace. Try not to sprint and stop.
+	- If you feel a pump (calves, quads, glutes especially), slow you pace and focus on breathing
+	- Don't forcefully kick steps into the snow, let the momentum of your step and the weight of your leg do the work.
+	- "French technique" : Keep your crampons flat on the snow or ice, engage all of the bottom points, 
+		versus kicking straight into the ice with your front points. Much less tiring and more stable than front-pointing.
+	-  "Duck Foot" : roll your ankles outward to keep all crampon points in contact with the snow. Stand up straight 
+	- "Side-stepping" : One foot over another, axe up-hill and in-front. A step w/ each foot and then move axe. Keep all
+		Crampon points into ice. May need to point toes slightly downhill on steepest slopes on hard ice.
+	- "Hybrid Technique" : Continuous front-pointing on low-angle ice is a huge strain on the calves and feet. 
+		It’s often far better to front-point with one crampon and flat-foot with the other. Alternate feet. 
+	- "Front pointing" : Use on steep, hard ice. Technical ice-climbing crampons are designed for this (big straight front points). 
+		The more you lean into the mountain, the less effective you crampons will be (shear vs compression strength of ice)
